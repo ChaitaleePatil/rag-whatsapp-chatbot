@@ -57,5 +57,4 @@ The RAG chain will generate the answer using the dataset and context.
 Responses are stored in the database for conversation history.
 
 ```
-# Demo Video
-See the demo video showing live WhatsApp interactions, multi-user support, and database logging.
+
