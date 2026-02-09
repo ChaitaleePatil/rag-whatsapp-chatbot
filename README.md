@@ -18,21 +18,27 @@
 ## Project Structure
 
 rag-whatsapp-chatbot/
+├── whatsapp/                # WhatsApp integration
+│   ├── webhook.py           # Handles incoming messages
+│   ├── context_db.py        # Stores & retrieves conversation history
+│   └── chat_memory.db       # SQLite DB for session storage
 │
-├─ whatsapp/ # WhatsApp integration
-│ ├─ webhook.py # Handles incoming messages
-│ ├─ context_db.py # Stores and retrieves conversation history
-│ └─ chat_memory.db # SQLite database for session storage
+├── rag/                     # RAG pipeline
+│   ├── rag_chain.py         # Build & run RAG chain
+│   └── vector_store.py      # Load & manage vector embeddings
 │
-├─ rag/ # RAG pipeline
-│ ├─ rag_chain.py # Build & run RAG chain
-│ └─ vector_store.py # Load and manage vector embeddings
+├── vector_store/
+│   └── faiss_index/         # Prebuilt FAISS vector store
 │
-├─ vector_store/faiss_index/ # Prebuilt FAISS vector store
-├─ utils/formatter.py # Format WhatsApp responses
-├─ memory/session_manager.py # Optional session management
-├─ requirements.txt # Python dependencies
-└─ app.py # FastAPI app entrypoint
+├── utils/
+│   └── formatter.py         # Format WhatsApp responses
+│
+├── memory/
+│   └── session_manager.py   # Optional session management
+│
+├── requirements.txt         # Python dependencies
+└── app.py                   # FastAPI app entrypoint
+
 
 
 
@@ -76,6 +82,6 @@ The RAG chain will generate the answer using the dataset and context.
 
 Responses are stored in the database for conversation history.
 
-
-Demo Video
+```
+# Demo Video
 See the demo video showing live WhatsApp interactions, multi-user support, and database logging.
