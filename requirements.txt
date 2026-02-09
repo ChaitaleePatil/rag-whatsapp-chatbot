@@ -7,10 +7,10 @@ langchain==1.2.9
 langchain-google-genai==4.2.0
 
 # Embeddings / RAG
-sentence-transformers==5.2.2
+sentence-transformers==2.2.2
 transformers==5.1.0
-faiss-cpu==1.7.4
 torch==2.10.0+cpu
+faiss-cpu==1.6.5
 
 # Twilio WhatsApp
 twilio==9.10.1
