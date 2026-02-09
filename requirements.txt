@@ -1,0 +1,18 @@
+# Backend
+fastapi
+uvicorn
+
+# LangChain & Google Gemini
+langchain
+langchain-google-genai
+
+# Embeddings
+sentence-transformers
+faiss-cpu
+
+# Twilio WhatsApp
+twilio
+
+# Utilities
+pandas
+python-dotenv

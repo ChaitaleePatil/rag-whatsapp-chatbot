@@ -1,0 +1,17 @@
+Which switches support stacking?
+What models are available in C3500 series?
+Tell me about C9500-48Y4C
+What features does C3500-24X-2Q have?
+Which switches support stacking?
+Which models have 100G uplinks?
+What is best for enterprise core network?
+Which products support Wi-Fi 6?
+What firewall is suitable for branch offices?
+How does SD-WAN improve WAN connectivity?
+Which tools are used for centralized network management?
+What software helps with identity-based access control?
+Which tools provide cloud-based network monitoring?
+How does Cisco Meraki simplify network management?
+What is used for application performance monitoring?
+Which platform helps with centralized logging?
+How is IoT data integrated with cloud platforms?

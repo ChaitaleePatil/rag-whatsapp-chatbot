@@ -1,0 +1,183 @@
+product_series,model,feature,description,category
+C3500 Series,C3500-24X,Stacking,Supports stacking allowing multiple switches to operate as a single logical unit,Switch Feature
+C3500 Series,C3500-24X-2Q,Stacking,Supports stacking with high-speed uplinks,Switch Feature
+C3500 Series,C3500-24X-2C,Stacking,Supports stacking with advanced redundancy,Switch Feature
+C3500 Series,C3500-24X,Ports,24 x 10G Ethernet ports,Hardware Spec
+C3500 Series,C3500-24X-2Q,Uplinks,2 x 40G QSFP uplinks,Hardware Spec
+C3500 Series,C3500-24X-2C,Uplinks,2 x 100G QSFP28 uplinks,Hardware Spec
+C3500 Series,All Models,Routing,Supports Layer 3 static and dynamic routing,Networking
+C3500 Series,All Models,Security,ACLs and port security support,Security
+C3500 Series,All Models,Management,Supports SNMP, CLI, and Web UI management,Management
+C3500 Series,All Models,Use Case,Designed for data center top-of-rack deployments,Use Case
+
+C9300 Series,C9300-24P,Stacking,Supports StackWise-480 technology,Switch Feature
+C9300 Series,C9300-48P,Stacking,Supports StackWise-480 technology,Switch Feature
+C9300 Series,C9300-24P,Ports,24 x 1G Ethernet ports with PoE+,Hardware Spec
+C9300 Series,C9300-48P,Ports,48 x 1G Ethernet ports with PoE+,Hardware Spec
+C9300 Series,C9300-48P,Power,PoE+ support for access devices,Power
+C9300 Series,C9300-24P,Uplinks,Modular uplink options including 10G and 25G,Hardware Spec
+C9300 Series,All Models,Security,Advanced threat defense and MACsec encryption,Security
+C9300 Series,All Models,Routing,Supports advanced Layer 3 routing protocols,Networking
+C9300 Series,All Models,Use Case,Ideal for enterprise access layer deployments,Use Case
+C9300 Series,All Models,Management,Supports Cisco DNA Center integration,Management
+
+C9500 Series,C9500-24Y4C,Stacking,Supports StackWise Virtual for core networks,Switch Feature
+C9500 Series,C9500-48Y4C,Stacking,Supports StackWise Virtual with dual-active detection,Switch Feature
+C9500 Series,C9500-24Y4C,Ports,24 x 25G SFP28 ports,Hardware Spec
+C9500 Series,C9500-48Y4C,Ports,48 x 25G SFP28 ports,Hardware Spec
+C9500 Series,C9500-24Y4C,Uplinks,4 x 100G QSFP28 uplinks,Hardware Spec
+C9500 Series,C9500-48Y4C,Uplinks,4 x 100G QSFP28 uplinks,Hardware Spec
+C9500 Series,All Models,Performance,High-throughput switching for core networks,Performance
+C9500 Series,All Models,Routing,Optimized for large-scale Layer 3 routing,Networking
+C9500 Series,All Models,Security,Secure boot and runtime defense,Security
+C9500 Series,All Models,Use Case,Designed for enterprise core and aggregation layers,Use Case
+
+C9200 Series,C9200-24T,Ports,24 x 1G Ethernet ports,Hardware Spec
+C9200 Series,C9200-48T,Ports,48 x 1G Ethernet ports,Hardware Spec
+C9200 Series,C9200-24P,Power,PoE+ support for IP phones and cameras,Power
+C9200 Series,C9200-48P,Power,PoE+ support for wireless access points,Power
+C9200 Series,All Models,Security,Basic network security with access control lists,Security
+C9200 Series,All Models,Management,Cloud-managed via Cisco DNA Center,Management
+C9200 Series,All Models,Use Case,Cost-effective access layer switch for small enterprises,Use Case
+
+C1000 Series,C1000-24T-4G,Ports,24 x 1G Ethernet ports with 4G uplinks,Hardware Spec
+C1000 Series,C1000-48T-4G,Ports,48 x 1G Ethernet ports with 4G uplinks,Hardware Spec
+C1000 Series,All Models,Routing,Supports basic Layer 2 and static Layer 3 routing,Networking
+C1000 Series,All Models,Security,Port security and DHCP snooping,Security
+C1000 Series,All Models,Management,Easy setup via web-based GUI,Management
+C1000 Series,All Models,Use Case,Ideal for small offices and branch deployments,Use Case
+
+C9600 Series,C9606R,Chassis,6-slot modular chassis for high-density core switching,Hardware Spec
+C9600 Series,C9606R,Routing,Designed for large-scale Layer 3 routing,Networking
+C9600 Series,C9606R,Performance,High-performance switching fabric for enterprise core,Performance
+C9600 Series,C9606R,Security,Secure boot and hardware-based trust,Security
+C9600 Series,C9600 Series,Use Case,Enterprise campus core and aggregation,Use Case
+C9600 Series,All Models,Management,Integrated with Cisco DNA Center,Management
+
+C9400 Series,C9410R,Chassis,10-slot modular chassis for campus aggregation,Hardware Spec
+C9400 Series,C9407R,Chassis,7-slot modular chassis for medium deployments,Hardware Spec
+C9400 Series,C9404R,Chassis,4-slot compact modular chassis,Hardware Spec
+C9400 Series,All Models,Stacking,Virtual stacking using StackWise Virtual,Switch Feature
+C9400 Series,All Models,Power,Redundant power supplies supported,Power
+C9400 Series,All Models,Security,Advanced access control and segmentation,Security
+C9400 Series,All Models,Use Case,Campus aggregation and distribution layer,Use Case
+
+C8300 Series,C8300-1N1S-4T2X,Routing,Advanced WAN routing and SD-WAN support,Networking
+C8300 Series,C8300-2N2S-6T,Routing,High-performance branch routing,Networking
+C8300 Series,All Models,Security,Integrated firewall and VPN services,Security
+C8300 Series,All Models,Management,Centralized management via SD-WAN controller,Management
+C8300 Series,All Models,Use Case,Enterprise branch and WAN edge deployments,Use Case
+
+C8200 Series,C8200-1N-4T,Routing,Entry-level WAN routing for branches,Networking
+C8200 Series,C8200-1N-4T,Security,Basic firewall and IPsec VPN support,Security
+C8200 Series,All Models,Performance,Optimized throughput for small branch networks,Performance
+C8200 Series,All Models,Use Case,Small enterprise branch connectivity,Use Case
+
+C7600 Series,7609-S,Chassis,High-capacity modular chassis switch,Hardware Spec
+C7600 Series,7606-S,Chassis,Medium-capacity modular switching platform,Hardware Spec
+C7600 Series,All Models,Routing,Supports advanced MPLS and BGP routing,Networking
+C7600 Series,All Models,Performance,High switching capacity for service providers,Performance
+C7600 Series,All Models,Use Case,Service provider and large enterprise core,Use Case
+
+Nexus 9000 Series,N9K-C93180YC-EX,Ports,48 x 10G/25G ports with 6 x 40G uplinks,Hardware Spec
+Nexus 9000 Series,N9K-C9364C,Ports,64 x 100G QSFP28 ports,Hardware Spec
+Nexus 9000 Series,All Models,Data Center,Optimized for data center spine-leaf architecture,Use Case
+Nexus 9000 Series,All Models,Automation,Supports NX-OS and automation APIs,Management
+Nexus 9000 Series,All Models,Security,Micro-segmentation and secure workloads,Security
+
+Nexus 3000 Series,N3K-C3172PQ,Ports,48 x 10G SFP+ ports with 6 x 40G uplinks,Hardware Spec
+Nexus 3000 Series,All Models,Latency,Ultra-low latency switching,Performance
+Nexus 3000 Series,All Models,Use Case,High-frequency trading and data center access,Use Case
+Nexus 3000 Series,All Models,Management,NX-OS based configuration and monitoring,Management
+
+Industrial Ethernet Series,IE-3300,Environment,Rugged design for harsh industrial environments,Hardware Spec
+Industrial Ethernet Series,IE-3300,Security,Industrial-grade network security,Security
+Industrial Ethernet Series,All Models,Use Case,Manufacturing and industrial automation,Use Case
+Industrial Ethernet Series,All Models,Management,Managed via industrial network tools,Management
+
+Meraki MS Series,MS120,Management,Cloud-managed switching via Meraki dashboard,Management
+Meraki MS Series,MS210,Ports,24 and 48 port enterprise access switches,Hardware Spec
+Meraki MS Series,All Models,Security,Integrated cloud-based security policies,Security
+Meraki MS Series,All Models,Use Case,Simplified enterprise networking,Use Case
+
+Wireless Catalyst Series,C9105AXI,Wireless,Wi-Fi 6 access point for small deployments,Wireless
+Wireless Catalyst Series,C9115AXI,Wireless,Enterprise Wi-Fi 6 access point,Wireless
+Wireless Catalyst Series,C9120AXI,Wireless,High-performance Wi-Fi 6 access point,Wireless
+Wireless Catalyst Series,All Models,Security,Integrated WPA3 and secure authentication,Security
+Wireless Catalyst Series,All Models,Management,Centralized management via wireless controllers,Management
+Wireless Catalyst Series,All Models,Use Case,Enterprise wireless access networks,Use Case
+
+Cisco Firepower Series,Firepower 1010,Firewall,Next-generation firewall for small offices,Security
+Cisco Firepower Series,Firepower 1120,Firewall,Branch firewall with advanced threat protection,Security
+Cisco Firepower Series,Firepower 2130,Firewall,High-performance firewall for enterprises,Security
+Cisco Firepower Series,All Models,Threat Protection,Intrusion prevention and malware protection,Security
+Cisco Firepower Series,All Models,Management,Centralized policy management using Firepower Management Center,Management
+Cisco Firepower Series,All Models,Use Case,Network perimeter security and threat defense,Use Case
+
+SD-WAN vEdge Series,vEdge 100,SD-WAN,Entry-level SD-WAN edge device,Networking
+SD-WAN vEdge Series,vEdge 1000,SD-WAN,High-performance SD-WAN for data centers,Networking
+SD-WAN vEdge Series,All Models,Security,Encrypted WAN traffic using IPsec,Security
+SD-WAN vEdge Series,All Models,Management,Centralized SD-WAN orchestration,Management
+SD-WAN vEdge Series,All Models,Use Case,Secure and optimized WAN connectivity,Use Case
+
+ISR 4000 Series,ISR 4331,Routing,Integrated services router for branch offices,Networking
+ISR 4000 Series,ISR 4351,Routing,High-throughput branch routing with services,Networking
+ISR 4000 Series,All Models,Security,Integrated firewall and VPN support,Security
+ISR 4000 Series,All Models,Performance,Optimized application performance using QoS,Performance
+ISR 4000 Series,All Models,Use Case,Enterprise branch networking,Use Case
+
+Cisco DNA Center,Software Platform,Automation,Network automation and provisioning,Management
+Cisco DNA Center,Software Platform,Analytics,AI-driven network insights and analytics,Management
+Cisco DNA Center,Software Platform,Security,Policy-based segmentation and access control,Security
+Cisco DNA Center,Software Platform,Use Case,Centralized enterprise network management,Use Case
+
+Cisco ISE,Software Platform,Access Control,Identity-based network access control,Security
+Cisco ISE,Software Platform,Authentication,User and device authentication,Security
+Cisco ISE,Software Platform,Management,Centralized policy enforcement,Management
+Cisco ISE,Software Platform,Use Case,Secure access for enterprise networks,Use Case
+
+Cisco Prime Infrastructure,Software Platform,Monitoring,Network monitoring and troubleshooting,Management
+Cisco Prime Infrastructure,Software Platform,Configuration,Centralized configuration management,Management
+Cisco Prime Infrastructure,Software Platform,Use Case,Operational visibility and control,Use Case
+
+Cisco Meraki Cloud,MX67,Cloud Management,Cloud-managed security and SD-WAN appliance,Cloud
+Cisco Meraki Cloud,MX84,Cloud Management,Enterprise cloud-managed security appliance,Cloud
+Cisco Meraki Cloud,MS225,Cloud Switching,Cloud-managed access layer switch,Cloud
+Cisco Meraki Cloud,MR46,Cloud Wireless,Wi-Fi 6 cloud-managed access point,Cloud
+Cisco Meraki Cloud,All Models,Monitoring,Real-time cloud-based network monitoring,Monitoring
+Cisco Meraki Cloud,All Models,Logging,Centralized event and traffic logs in cloud dashboard,Logging
+Cisco Meraki Cloud,All Models,Use Case,Simplified cloud-managed enterprise networking,Use Case
+
+Cisco ThousandEyes,Enterprise Agent,Monitoring,End-to-end network and application visibility,Monitoring
+Cisco ThousandEyes,Cloud Agent,Monitoring,Internet and SaaS performance monitoring,Monitoring
+Cisco ThousandEyes,All Models,Analytics,Path visualization and root cause analysis,Monitoring
+Cisco ThousandEyes,All Models,Use Case,Monitoring internet, cloud, and SaaS performance,Use Case
+
+Cisco AppDynamics,Controller,Application Monitoring,Full-stack application performance monitoring,Monitoring
+Cisco AppDynamics,Controller,Analytics,Real-time application analytics and insights,Monitoring
+Cisco AppDynamics,Controller,Logging,Correlates application logs with performance metrics,Logging
+Cisco AppDynamics,Controller,Use Case,Application performance and business monitoring,Use Case
+
+Cisco SecureX,Platform,Security Integration,Unified security visibility across tools,Security
+Cisco SecureX,Platform,Automation,Automated threat response workflows,Security
+Cisco SecureX,Platform,Logging,Centralized security event logging,Logging
+Cisco SecureX,Platform,Use Case,Integrated security operations,Use Case
+
+Cisco IoT Gateways,IR1101,IoT Connectivity,Industrial IoT gateway for edge connectivity,IoT
+Cisco IoT Gateways,IR1800,IoT Connectivity,Rugged IoT router for industrial environments,IoT
+Cisco IoT Gateways,All Models,Security,Secure device onboarding and communication,Security
+Cisco IoT Gateways,All Models,Management,Centralized IoT device management,Management
+Cisco IoT Gateways,All Models,Use Case,Industrial and smart infrastructure IoT deployments,Use Case
+
+Cisco Edge Intelligence,Software Platform,Data Processing,Edge data filtering and processing,IoT
+Cisco Edge Intelligence,Software Platform,Integration,Streams IoT data to cloud platforms,Cloud
+Cisco Edge Intelligence,Software Platform,Use Case,IoT data analytics and cloud integration,Use Case
+
+Cisco Splunk,Enterprise Security,Logging,Centralized log management and analysis,Logging
+Cisco Splunk,Enterprise Security,Monitoring,Security information and event management (SIEM),Monitoring
+Cisco Splunk,Enterprise Security,Analytics,Advanced threat detection using analytics,Security
+Cisco Splunk,Enterprise Security,Use Case,Security monitoring and log analytics,Use Case
+
+Cisco Cloud Observability,Platform,Monitoring,Unified observability for cloud-native applications,Monitoring
+Cisco Cloud Observability,Platform,Analytics,Correlation of metrics, logs, and traces,Monitoring
+Cisco Cloud Observability,Platform,Use Case,Cloud application performance monitoring,Use Case
