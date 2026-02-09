@@ -15,32 +15,6 @@
 
 ---
 
-## Project Structure
-
-rag-whatsapp-chatbot/
-├── whatsapp/                # WhatsApp integration
-│   ├── webhook.py           # Handles incoming messages
-│   ├── context_db.py        # Stores & retrieves conversation history
-│   └── chat_memory.db       # SQLite DB for session storage
-│
-├── rag/                     # RAG pipeline
-│   ├── rag_chain.py         # Build & run RAG chain
-│   └── vector_store.py      # Load & manage vector embeddings
-│
-├── vector_store/
-│   └── faiss_index/         # Prebuilt FAISS vector store
-│
-├── utils/
-│   └── formatter.py         # Format WhatsApp responses
-│
-├── memory/
-│   └── session_manager.py   # Optional session management
-│
-├── requirements.txt         # Python dependencies
-└── app.py                   # FastAPI app entrypoint
-
-
-
 
 ## Setup Instructions
 
